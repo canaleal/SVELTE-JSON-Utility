@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Toronto Traffic Camera API</h1>
+  <h1>Toronto Traffic Analytics & GeoData Integration</h1>
   <h4>Data Science • Geojson • Jupyter</h4>
 </div>
 <h1>Contents</h1>
